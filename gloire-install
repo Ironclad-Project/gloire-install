@@ -1,0 +1,5 @@
+#! /bin/sh
+
+echo "Installing is not supported as of yet! Please stay tuned!"
+echo "Press any key to continue..."
+read
